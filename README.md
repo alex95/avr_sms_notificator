@@ -2,21 +2,21 @@
 
 VO1-VO3 - PC817
 
-R1-R6 - 68k 
+R1-R3 - 100ak 
 
-R7,R9-R14 - 300
+R4-R6 - 68k
 
-R8-R10 - 33k
+R7-R11 - 300
 
 D4-D10 - LED
 
-C1-C3 - 1uF
+C1-C3 - 820-1000uF 6.8V-10V
 
-C4 - 1000uF 10V 
+C4 - 680-1000uF 6.8V-10V
 
 Bt1-Bt2 - standart key
 
-Sp- speaker to ring M590e
+Sp- speaker 
 
 Ant - GSM antena M590e
 
@@ -37,7 +37,7 @@ Arduino nano, TP4056, M590e and SX1308 - standart aliexpress buy
 
 5 - Burn program through ArduinoIDE
 
-6 - Solder the jumper wire JP1 and JP2
+6 - Solder the jumper wire JP1
 
 7 - Esting to  Сonnect power from power lines LEP, DISEL and AVR
 
